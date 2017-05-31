@@ -1,0 +1,8 @@
+Step for install and run project
+
+1. start terminal/console in project directory
+execute following command:
+
+2. "npm install"
+3. "npm run build"
+4. "npm start"
